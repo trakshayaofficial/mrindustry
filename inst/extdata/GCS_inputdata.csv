@@ -1,0 +1,6 @@
+scenario;base.scenario;region;subsector;phasein;factor
+SSP2_GCS_IndLMD;SSP2;NA;cement;30;0.8
+SSP2_GCS_IndLMD;SSP2;NA;chemicals;30;0.68
+SSP2_GCS_IndLMD;SSP2;NA;steel_primary;30;0.24
+SSP2_GCS_IndLMD;SSP2;NA;steel_secondary;30;0.24
+SSP2_GCS_IndLMD;SSP2;NA;otherInd;30;1
